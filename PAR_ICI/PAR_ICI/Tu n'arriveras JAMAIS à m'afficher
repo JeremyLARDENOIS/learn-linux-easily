@@ -1,0 +1,6 @@
+Ah joli ! Mais tu es passé a coté d'un truc je crois ...
+En effet, la commande ls peut etre utiliser, comme beaucoup de commande peut s'utiliser avec des options.
+La plus répendue s'agit de rajouter -h, -help après la commande.
+Il existe aussi une commande appelée man [commande] qui ouvre un manuel avec tout de détaillé pour la commande.
+Sais-tu que la commande ls n'affiche pas les fichiers cachés par défaut? Il y a peut etre une option qui le fait...
+
