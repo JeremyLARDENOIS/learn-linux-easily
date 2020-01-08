@@ -1,3 +1,4 @@
 Coucou, bon je vais te donner encore deux trois astuces, les simples guillemets ' ' permettent d'ecrire des chaines de caractères.
 Tu peux aussi utiliser un backslash \ devant un caractère afin qu'il soit interprété comme un simple caractère. Penses à l'utiliser devant les caractères spéciaux les guillemets et les espaces.
 Ca peut etre utile quand tu veux appeler un fichier par exemple qui contient un caractère spéciale...
+Tu peux aussi essayer de mettre la première lettre et appuyer sur tab ensuite, c'est magique !
