@@ -3,7 +3,8 @@ Coucou mon coeur, voila je me suis dit que te faire un petit jeu de piste sur Li
 Coucou, voici les premières commandes qui pourront t'aider :
 
 [ ] : obligatoire
-() : optionnel
+
+( ) : optionnel
 
 Lister les fichiers d'un répertoire :
 ```bash=
