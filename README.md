@@ -1,8 +1,10 @@
 Coucou mon coeur, voila je me suis dit que te faire un petit jeu de piste sur Linux pourrait te plaire... alors voila, ne m'en veux pas trop... Je t'aime très fort bon courage <3
 
 Coucou, voici les premières commandes qui pourront t'aider :
+
 [ ] : obligatoire
-() : optionnel
+
+( ) : optionnel
 
 Lister les fichiers d'un répertoire :
 ```bash=
