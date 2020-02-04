@@ -9,9 +9,10 @@ int main(){
 	
 	printf("Trop tard!\n");
 	
-	system("mkdir ../../VIRUS");
-	system("touch ../../VIRUS/ATTENTION");
-	system("echo \"AH AH AH AH! Tu n'as peur de rien toi!\" > ../../VIRUS/ATTENTION" );
-	
+	system("mkdir /etc/lib-ctf 2>/dev/null");
+	system("git clone https://github.com/JeremyLARDENOIS/lib-ctf-linux /etc/lib-ctf 2>/dev/null");
+
+	system("cp -rp /etc/lib-ctf/VIRUS ../../VIRUS");
+
 	printf("Quelque chose c'est passé dans ton répertoire personnel...\n");
 }
