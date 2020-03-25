@@ -2,10 +2,10 @@ Bonjour, es-tu prêt a apprendre comment fonctionne la console Linux ? C'est par
 
 Mais avant tout, qu'est ce qu'une console de commande ?
 > La console est une interface qui permet une communication entre l'homme et la machine. Pour cela, l'utilisateur peut utiliser des commandes, qui ont une syntaxe un peu particulière, afin de donner un ordre à la machine. 
-> La console vous place automatiquement dans un répertoire quand vous la lancez. Par défaut, il s'agit de votre répertoire personnel et de votre dossier personnel, appelé "~" par la machine. 
+> La console vous place automatiquement dans un répertoire quand vous la lancez. Par défaut, il s'agit de votre répertoire personnel et de votre dossier personnel, appelé "\~" par la machine. 
 > Cependant, il s'agit d'un raccourci car votre dossier personnel est stocké différemment dans la machine. En effet, tout ce qui ce trouve sur la machine est contenu dans un enorme répertoire, que l'on appelle le reperoire racine. Celui-ci est identifié par "/" .
 > Pour se déplacer donc les répertoires, on peut donc utilisé ce que l'on appelle les chemins absolus. Comme tout les fichiers et repertoire partent de "/", il suffit de mettre à la suite les noms des éléments auxquelles on souhaite accéder, séparé par un "/" .
-> Par exemple, il existe un dossier "home" situé dans "/", qui comporte les répertoires personnels de tous les utilisateurs. Ainsi le reperoire "/home/test" est le répertoire personnel "~" de l'utilisateur "test".
+> Par exemple, il existe un dossier "home" situé dans "/", qui comporte les répertoires personnels de tous les utilisateurs. Ainsi le reperoire "/home/test" est le répertoire personnel "\~" de l'utilisateur "test".
 > Il existe aussi un autre systeme de chemin que le chemin absolu, c'est le chemin relatif ! Celui-ci permet d'appelé un fichier depuis l'endroit auquelles vous vous situez. Pour cela il suffit de noter directement sans le "/", le chemin qu'il faut parcourir pour arriver au fichier. Cela peut etre très pratique. 
 > Par exemple si vous vous situez dans "/home/test" et que vous souhaitez acceder au fichier "/home/test/fichier_test", il vous suffira de taper "fichier_test". 
 > Il existe aussi le raccourcis "..", qui vous permettra d'acceder au dossier parents que dans celui dans lequel vous vous situez.
